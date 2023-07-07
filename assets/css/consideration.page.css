@@ -1,35 +1,32 @@
 .main_container {
     transform: rotate(45deg);
-    margin: 100px;
+    margin: 100px 0 0 0;
+    width: 100%;
+    justify-content: center;
 }
 .disc_one_container {
     width: 100px;
     height: 100px;
     border: 1ps solid red;
     background-color: red;
-    margin: 300px 0px 0px 300px;
+    margin: 50px 0px 0px 0px;
     border-radius: 50%;
-    float: left;
 }
 .disc_two_container {
     width: 100px;
     height: 100px;
     border: 1px solid red;
     background-color: red;
-    margin: 250px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    margin-left: -50px;
     border-radius: 50%;
-    float: left;
-    position: relative;
-    right: 50px;
 }
 .square_container {
     width: 100px;
     height: 98px;
     border: 1px solid red;
     background-color: red;
-    margin: 300px 0px 0px 0px;
-    float: left;
-    position: relative;
-    right: 152px;
+    margin-top: 50px;
+    margin-left: -102px;
 }
 
