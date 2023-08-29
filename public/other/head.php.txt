@@ -1,0 +1,6 @@
+/** .-------------------------------------------------------------------
+ * |  Software: [Software Name]
+ * |--------------------------------------------------------------------
+ * |    Author: Developer Name
+ * | Copyright (c) Earliest version year,Last updated version year [Software Website] All Rights Reserved.
+ * '-------------------------------------------------------------------*/

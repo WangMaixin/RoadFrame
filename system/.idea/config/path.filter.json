@@ -1,0 +1,8 @@
+{
+    "path.filter.list":[
+        ".",
+        "php",
+        "json",
+        "html"
+    ]
+}

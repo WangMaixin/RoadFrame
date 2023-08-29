@@ -1,0 +1,16 @@
+{
+    "name": "administrator/ningning",
+    "autoload": {
+        "psr-4": {
+            "System\\": "system/.idea/boot",
+            "Boot\\" :"system/.idea/application"
+        }
+    },
+    "authors": [
+        {
+            "name": "Minit-WangMaixin",
+            "email": "3073486251@qq.com"
+        }
+    ],
+    "require": {}
+}
