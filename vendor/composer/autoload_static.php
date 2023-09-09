@@ -15,6 +15,10 @@ class ComposerStaticInit504a73849dfdee392494c7037a8cae0b
         array (
             'Boot\\' => 5,
         ),
+        'A' => 
+        array (
+            'Attach\\' => 7,
+        ),
     );
 
     public static $prefixDirsPsr4 = array (
@@ -25,6 +29,10 @@ class ComposerStaticInit504a73849dfdee392494c7037a8cae0b
         'Boot\\' => 
         array (
             0 => __DIR__ . '/../..' . '/system/.idea/application',
+        ),
+        'Attach\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/system/.idea/public',
         ),
     );
 

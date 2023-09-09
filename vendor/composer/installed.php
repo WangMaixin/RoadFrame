@@ -3,7 +3,7 @@
         'name' => 'administrator/ningning',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'ac253066e8703d74d6476f6fc1a84a3dec1700c7',
+        'reference' => 'e28fb673f846b8c6683cee1d375a39c1cd80686e',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'administrator/ningning' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'ac253066e8703d74d6476f6fc1a84a3dec1700c7',
+            'reference' => 'e28fb673f846b8c6683cee1d375a39c1cd80686e',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

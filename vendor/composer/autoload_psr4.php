@@ -8,4 +8,5 @@ $baseDir = dirname($vendorDir);
 return array(
     'System\\' => array($baseDir . '/system/.idea/boot'),
     'Boot\\' => array($baseDir . '/system/.idea/application'),
+    'Attach\\' => array($baseDir . '/system/.idea/public'),
 );

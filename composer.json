@@ -3,7 +3,8 @@
     "autoload": {
         "psr-4": {
             "System\\": "system/.idea/boot",
-            "Boot\\" :"system/.idea/application"
+            "Boot\\" :"system/.idea/application",
+            "Attach\\" :"system/.idea/public"
         }
     },
     "authors": [
